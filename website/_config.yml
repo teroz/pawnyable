@@ -18,7 +18,9 @@ keywords:
   - pwn
   - pwnable
 author: ptr-yudai
-language: ja
+language: 
+ - ja
+ - en
 timezone: 'Japan'
 
 # URL
